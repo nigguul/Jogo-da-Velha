@@ -1,0 +1,12 @@
+#########################################
+#         FEITO POR nigguul             # 
+#        discord → nigguul#1159         #
+# e-mail:guilherme.l.lima1104@gmail.com #
+#########################################
+
+
+O jogo nao irá funcionar se nao tiver o plugin do python installado!
+
+Ultima versão! 01/04/21
+
+https://www.python.org/ftp/python/3.9.2/python-3.9.2-amd64.exe
